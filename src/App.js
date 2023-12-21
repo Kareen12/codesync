@@ -11,7 +11,7 @@ function App() {
   const user = localStorage.getItem("token");
   return (
   <>
-   {/* <DataProvider>
+   {/* <DataProvider..>
       <Home/>
     </DataProvider> */}
     <Routes>
