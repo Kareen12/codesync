@@ -1,6 +1,6 @@
 # CodeSync - CodePen Clone
 
-CodeSync is a web application that serves as a simplified clone of the CodePen editor. It provides users with the ability to write and preview HTML, CSS, and JavaScript code in real-time. Additionally, the project features user authentication, including login and signup functionality. The application is built using the React library for the frontend, Express for the backend, and MongoDB as the database.
+CodeSync is a web application that serves as a simplified clone of the CodePen editor. It provides users with the ability to write and preview HTML, CSS, and JavaScript code in real-time. Additionally, the project features user authentication, including login and signup functionality. The application is built using the React library for the frontend, Nodejs, Express for the backend, and MongoDB as the database.
 
 ## Features
 
